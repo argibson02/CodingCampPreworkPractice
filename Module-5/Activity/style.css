@@ -1,0 +1,58 @@
+
+    body {
+        background-color: rgb(228, 186, 215);
+    }
+
+    h1, h2 {
+        text-align: center;
+    }
+
+    #a1 {
+        color: red;
+    }
+
+    #a2 {
+        color:royalblue
+    }
+
+    #a3 {
+        color:seagreen
+    }
+
+    #a4 {
+        font-size: xx-large
+    }
+
+    #a5 {
+        font-size:xx-small
+    }
+
+    #a6 {
+        text-align: center;
+    }
+    
+    #a7 {
+        font-weight: bolder;
+    }
+
+    #a8 {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    #a9 {
+        font-weight: bold;
+        color: orange;
+        font-size: x-large;
+    }
+
+    #styledImage {
+        border: indigo;
+        border-style: dotted;
+        border-width: 10px;
+    }
+
+    .styledFont {
+        font-style: oblique;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: green;
+    }

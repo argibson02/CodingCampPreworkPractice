@@ -1,0 +1,43 @@
+
+    body {
+        background-color: #613c0c;
+    }
+
+    h1 {
+      color: rgb(255, 255, 255);
+      text-decoration: underline;
+    }
+
+    h2, h3, p {
+      color: yellow;
+    }
+
+    p, li {
+      font-size: 24px;
+      font-family: cursive;
+    }
+
+    .almond {
+      color: white;
+    }
+
+    .butterfinger {
+      color: orange;
+    }
+
+    .ferrero {
+      color: gold;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .all {
+      color: blue;
+    }
+
+    #second {
+        color:red
+    }
+
+    .underline {
+        text-decoration: underline;
+    }
